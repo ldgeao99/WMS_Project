@@ -1,4 +1,4 @@
-# WMS_corporate_project
+# :pushpin: WMS_Project(창고 재고관리 시스텀)
 
 (Spring, 팀프로젝트) WMS 창고 재고관리 시스템(박찬호, 이대곤, 김강회, 송학관, 장현세, 전진환, 심재웅, 장정훈)
 

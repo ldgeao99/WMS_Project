@@ -321,7 +321,7 @@ public class PageForWareHouseDTO<T> {
 - **Jenkins를 구동하기 위한 최소한의 사양**이 있는데 AWS EC2의 무료 버전인 micro를 사용하게 되면 **Ram 용량이 부족**하게 되는 현상을 발견하였습니다.
 
 - 이를 해결하기위해 EC2 내에 **swap 공간을 활용**하여 Ram 사양을 키운 듯한 효과를 내었습니다.<br>
-  <a href="https://chanho-park.tistory.com/entry/%EC%A0%A0%ED%82%A8%EC%8A%A4-Build-%EC%8B%9C-%EA%B3%84%EC%86%8D-%EB%8B%A4%EB%A5%B8-%EB%B6%80%EB%B6%84%EC%97%90%EC%84%9C-%EB%A9%88%EC%B6%B0%EC%84%9C-%EC%A7%84%ED%96%89-%EB%90%98%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81%EC%A4%91%EC%9A%94">[&nbsp;블로그 정리&nbsp;]</a>
+  <a href="https://ldgeao99-developer.tistory.com/600">[&nbsp;블로그 정리&nbsp;]</a>
 
 </br>
 
